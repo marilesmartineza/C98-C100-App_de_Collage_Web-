@@ -1,0 +1,53 @@
+body{
+    background-color: #aabce7;
+    font-family: 'Shadows Into Light';
+}
+
+h1{
+    font-family: 'DynaPuff';
+}
+
+#result1{ 
+    width: 30%;
+}
+
+#result2{
+    width: 30%;
+}
+
+#result3{
+    width: 30%;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{ 
+    width:360px;
+    height: 250px;
+    border:3px dotted grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    border: 5px dashed rgb(17, 162, 128);
+}
+#textbox
+{
+    width: 300px;
+}
+
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+
+}
+
+.column {
+    display: inline;
+    padding: 10px;
+}
