@@ -19,9 +19,9 @@ function start()
 
         Textbox.innerHTML = Content;
         console.log(Content);
-        if(Content == "foto")
+        if(Content == "queso")
         {
-            console.log(Content +"foto --- ");
+            console.log(Content +"queso --- ");
             speak();
         }
 
